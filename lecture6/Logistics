@@ -1,0 +1,72 @@
+Logistics
+- Bring Student ID and Writing Utensil
+- No Electronic Devices
+- No notes, no books
+
+Format
+- Will be a mix of questions
+- Short answer questions mainly
+	- briefly define, describe state, ...
+- Write Code
+	- complete a function, create a makefile
+- Fill in the Blank / complete the table
+- Given code, write the output (C++)
+- Given a statement, tell me if its true or false
+	- if false, briefly state why
+- Expect it to take ~ 1 hour (maybe sooner)
+	- but we have the entire class period
+- Will cover broad range of topics, but not everything
+
+Topics
+- Will cover everything up to and including Tuesday's lecture 10/16)
+	-hashtables, chain hashing, etc
+
+Makefiles
+- Know how to create one when mutiple files are linked to form an executable
+-know the build process
+	- Preprocessing, Compiling, Linking
+- know what the default rules are, flags, special symbols (as discussed)
+
+Standard Template Library
+-Reviewed some details about vectors
+	-Operations like [], at, front, back, pop_back, push_back, size, constructors
+- Reviewed Iterators
+	-begin(), end(), ++, <, *, erase
+- Sets
+	-Definition, insert, find, iterators
+- STL Maps and unordered_maps
+	- [], find, iterators, pairs, insert, erase
+
+Class Design
+- Abstract Data Types
+- How to design an interface (.h file) and its implementation (.cpp)
+-Public vs Private
+- Accessors vs Mutators
+- Constructors (default, overloaded, copy)
+- Header guards
+-Scope Resolution operator (::) and .cpp method definitions
+- Shallow vs Deep copy
+- Big Three (rule of three): copy constructor, destructor, assignment operator
+
+Structs and Classes
+- What are the difference(s)?
+	-class: Private by default
+	-Struct: Public by default
+
+Namespaces
+- Avoid naming collisions
+- how to create them in your code
+- Global namespace (how to specify using "::")
+
+Binary Search
+- Assume sorted
+- Recursive (and iterative) implementation
+- Performance (running time), O-notation
+
+Quadratic Sorting Algorithms
+- bubblesort
+	- optimized version of bubbles sort
+		- if you dont make any swaps, your done
+- selectionsort
+- insertionsort
+- Performance (best/ worst case scenarios), O-notation
