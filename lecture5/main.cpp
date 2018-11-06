@@ -136,4 +136,23 @@ Chain Hashing
 	all just references to memory 
 	Vectors/LinkedLists Work well because of their dynamic memory
 	allocation during runtime.
+
+
+
+
+Lookup
+	HashTable: avg: O(1)
+				worst O(n)
+	Balanced Tree: avg: O(log n)
+					worst O(log n)
+
+Deletion
+	Hash table: avg: O(1)
+				worst: O(n)
+	Balanced Tree: avg: O(log n)
+					worst: O(log n)
+
+
+
+
 */

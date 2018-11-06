@@ -70,3 +70,9 @@ Quadratic Sorting Algorithms
 - selectionsort
 - insertionsort
 - Performance (best/ worst case scenarios), O-notation
+
+Hash Table
+- Definitions of open-address hashing, double hashing, collisions, chained hashing
+- unordered_map vs map
+	- performance for certain operations
+	- underlying implementation of each
